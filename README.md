@@ -8,7 +8,7 @@
     <a href="https://github.com/mehdihadeli/awesome-software-architecture/blob/main/LICENSE" ><img alt="license" src="https://img.shields.io/badge/License-CC0_1.0-E91E63.svg?style=flat-square" /></a>
   </h1>
 </p>
-
+     
 > Curated list of awesome articles and resources to learn and practice software architecture, patterns and principles. This repository will be updated continuously, keep yourself up to date .
 
 I created this repository to share a set of links that I found valuable and inspiring and I share them with others to improve our knowledge together ✌️.
@@ -624,4 +624,5 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
 <a href="https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mehdihadeli/awesome-software-architecture" />
 </a>
+
 
