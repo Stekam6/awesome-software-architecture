@@ -17,7 +17,7 @@ I created this repository to share a set of links that I found valuable and insp
 
 ---
 
-## Contents
+## Contents  
 
 - [Contents](#contents)
   - [Software Architecture](#software-architecture)
@@ -624,3 +624,4 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
 <a href="https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mehdihadeli/awesome-software-architecture" />
 </a>
+
